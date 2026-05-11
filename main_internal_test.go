@@ -45,10 +45,4 @@ func TestGreet(t *testing.T) {
 			}
 		})
 	}
-	// want := "Hello world"
-	// got := greet("en")
-
-	// if got != want {
-	// 	t.Errorf("expected %q, got %q", want, got)
-	// }
 }
